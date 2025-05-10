@@ -16,6 +16,10 @@ L'alimentation est confiée à un coupleur de 3 piles "AA" au lithium type "ENER
 et le régulation est assurée par un MCP1700-33 pour son courant de fuite très faible.
 Ce montage assure une autonomie de trois à quatres mois.
 
+L'arrivée d'une lettre ou d'un colis est signalé par l'icone de la boîte aux lettres et d'un signal sonore.
+Le signal sonore peut être coupé ou rétablis par l'appui sur la touche "cloche".
+La relève se valide par appui sur la touche adéquate qui affichera à nouveau la boîte vide.
+
 
 
 
